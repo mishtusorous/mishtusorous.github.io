@@ -10,3 +10,4 @@ categories: howto
 ### Mac helpful links 
 
   * http://howtouninstallonmac.net/uninstall-vmware-fusion-mac/
+  * Is the change coming in at all ? 
