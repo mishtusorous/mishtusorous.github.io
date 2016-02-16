@@ -1,7 +1,0 @@
-
-### mishtusorous    
-
-  * gmail 
-  * twitter 
-  * stackoverflow
-  
