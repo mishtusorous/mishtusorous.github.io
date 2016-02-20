@@ -44,3 +44,27 @@ $ git add --all && git commit -m "new version" && git push
 ### News 
 
   * [MIT News](http://news.mit.edu/2016/quantum-approach-big-data-0125?platform=hootsuite)
+
+### ToRead 
+
+  * [Proven practices for accelerating enterprise analytics adoption](http://public.dhe.ibm.com/common/ssi/ecm/im/en/imw14848usen/IMW14848USEN.PDF)
+  * [20 Stupid Claims About Big Data](https://www.linkedin.com/pulse/20-stupid-claims-big-data-bernard-marr)
+
+### Lambda architecture 
+
+  * [Applying the Big Data Lambda Architecture](http://www.drdobbs.com/database/applying-the-big-data-lambda-architectur/240162604)
+  * Twitter, Nathan Marz, Storm 
+  * New data / batch layer / serving layer (batch view) / query 
+  * New data / speed layer (real time view) / query 
+
+
+
+### Lambda architecture provides 
+
+  * Robust fault-tolerant system , both against hardware failures and human mistakes (how is that?)
+  * Wide range of workloads and use cases, in which low-latency reads and updates are required. 
+  * Should support ad-hoc queries.
+  * throwing more machines at the problem will do the job.
+  * The system should be extensible so that features can be added easily, and it should be easily debuggable and require minimal maintenance.
+ 
+### 
