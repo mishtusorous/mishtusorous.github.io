@@ -67,4 +67,21 @@ $ git add --all && git commit -m "new version" && git push
   * throwing more machines at the problem will do the job.
   * The system should be extensible so that features can be added easily, and it should be easily debuggable and require minimal maintenance.
  
-### 
+### Read more 
+
+  * https://twitter.com/martinfowler
+  * https://twitter.com/KentBeck
+  * https://medium.com
+  * http://dilbert.com
+
+
+
+### Lambda expression 
+
+  * http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+
+
+### What next 
+
+  * Write some Lambda. 
+    
