@@ -76,12 +76,9 @@ $ git add --all && git commit -m "new version" && git push
 
 
 
-### Lambda expression 
+### Sublime shortcuts 
 
-  * http://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html
+  * https://www.youtube.com/watch?v=0ZnVBVaQpWs
 
 
-### What next 
 
-  * Write some Lambda. 
-    
