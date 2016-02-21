@@ -6,13 +6,7 @@ summary:    Talk to me.
 categories: howto 
 ---
 
-
-### mishtusorous    
-
-  * gmail 
-  * twitter 
-  * stackoverflow
-
+  
 ### Create a new ssh key 
 
 ```
