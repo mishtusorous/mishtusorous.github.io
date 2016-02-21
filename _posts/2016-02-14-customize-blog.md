@@ -28,4 +28,15 @@ categories: howto
   * http://themes.gohugo.io/theme/pixyll/tags
   * He has got the tags working, but I dont know how. 
 
+### Add search 
+TODO 
+
+### Add tags 
+TODO 
+
+### Add code from gist 
+```
+{% gist parkr/931c1c8d465a04042403 %}
+```
+
 
