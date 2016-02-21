@@ -4,7 +4,7 @@ email:       mishtusorous@gmail.com
 author:      mishtu sorous
 description: "Some notes online."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://mishtusorous.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
