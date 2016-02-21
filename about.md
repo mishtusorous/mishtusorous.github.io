@@ -5,6 +5,16 @@ permalink: /about/
 tags: about
 ---
 
+### About me
+
+I am mishtusorous and you can find me at   
+
+  * gmail 
+  * twitter 
+  * stackoverflow
+
+
+### About Pixyll
 This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
 ([@4lpine](https://twitter.com/4lpine)).
 
