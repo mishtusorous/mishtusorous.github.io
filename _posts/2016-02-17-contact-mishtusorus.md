@@ -17,7 +17,7 @@ pbcopy < ~/.ssh/id_rsa.pub
 ### Get the github.io 
 
 ```
-
+  
 $ mkdir mishtusorous.github.io
 $ cd mishtusorous.github.io
 

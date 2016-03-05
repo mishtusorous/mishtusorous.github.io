@@ -36,3 +36,12 @@ git add --all && git commit -m "new version" && git push
 It is a bit pedestrian but, it is guaranteed not to eat too much system resource. And it will not run without me knowing. 
 
 There was the other one. But, one, I could not get it to work. Second, I could not get it to work. Third, it is a little too clever script for me. I could not make head or tail out of it. Or how is it supposed to work. 
+
+
+======
+Support us in env issues. 
+    Gim Jenna 
+    Carol kyle 
+
+    
+

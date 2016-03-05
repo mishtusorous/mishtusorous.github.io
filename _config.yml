@@ -84,7 +84,7 @@ text:
     related_posts:  'Related Posts'
   index:
     coming_soon: 'Coming soon...'
-  contact:
+  contact:    
     email:    'Email Address'
     content:  'What would you like to say?'
     subject:  'New submission!'
