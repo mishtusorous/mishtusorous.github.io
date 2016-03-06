@@ -86,11 +86,15 @@ app.controller('myCtrl', function($scope) {
 
 ### Arrays 
 
-  * points=[1,15,19,2,40]
-  * {{ points[2] }}
-  * names=['Jani','Hege','Kai']
-  * <li ng-repeat="x in names">
+```
+points=[1,15,19,2,40]
 
+{{ points[2] }}
+
+names=['Jani','Hege','Kai']
+
+<li ng-repeat="x in names">
+```
 
 ### Ref
   * http://www.w3schools.com/angular/
