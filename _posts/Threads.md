@@ -134,6 +134,14 @@ However, their seem to be a
 [Nimzo-Indian Defense](https://www.youtube.com/watch?v=htNc9zFPdQs)
 
 
+Some horses do better with noise and some without. Same as human? 
+http://www.si.com/horse-racing/2015/05/04/american-pharoah-earplugs-dortmund-bob-baffert
+
+[Career Advice](https://medium.com/life-learning/career-advice-no-one-tells-you-8be1bcd330cb#.9jr586s1f)
+
+[I thought a few of us needed to read this.](https://medium.com/@hcatlin/the-myth-of-long-hours-49a1f5072482#.5tkpr24sa)
+
+
 
 
 
