@@ -84,7 +84,7 @@ app.controller('myCtrl', function($scope) {
   * $location - 
   * $http is an AngularJS service for reading data from remote servers.
 
-### Arrays 
+### Arrays in AngularJs
 
 ```
 points=[1,15,19,2,40]
@@ -94,7 +94,21 @@ points=[1,15,19,2,40]
 names=['Jani','Hege','Kai']
 
 <li ng-repeat="x in names">
+
+/* Let's handle some arrays.  */
+$scope.arrayOfNames = ['mishtu', 'sorous'] ;
+
+
+<!-- Let's handle some arrays.  -->
+<h3>Names from an array</h3>
+<ul>
+<li ng-repeat="name in arrayOfNames">{{name}}</li>
+</ul>
+
+
 ```
+
+
 
 ### Ref
   * http://www.w3schools.com/angular/
