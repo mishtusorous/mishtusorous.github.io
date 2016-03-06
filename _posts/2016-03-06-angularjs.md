@@ -44,13 +44,17 @@ You can initialize models.
 <div ng-app="" ng-init="firstName='John'">
 ```
 
-You could run maths 
+### Expressions
+  * You could run maths 
+  * AngularJS expressions do not support conditionals, loops, and exceptions, while JavaScript expressions do.
+  * AngularJS expressions support filters, while JavaScript expressions do not.
 
 ```
 <p>My first expression: {{ 5 + 5 }}</p>
 ```
 
-You could name your app and put a controller to home the js code. 
+### Application (or as they call it, Module)
+  * You could name your app and put a controller to home the js code. 
 
 ```
 <div ng-app="myApp" ng-controller="myCtrl">
@@ -69,4 +73,8 @@ app.controller('myCtrl', function($scope) {
 ```
 
 
-http://www.w3schools.com/angular/
+
+### Ref
+  * http://www.w3schools.com/angular/
+  * http://www.w3schools.com/angular/angular_intro.asp
+  * http://www.w3schools.com/angular/angular_expressions.asp
