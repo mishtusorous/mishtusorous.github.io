@@ -72,6 +72,24 @@ app.controller('myCtrl', function($scope) {
 </script>
 ```
 
+### Directives 
+
+  * [List of directives in Angularjs](http://www.w3schools.com/angular/angular_ref_directives.asp)
+  * That is not the official one. Find that and share here. //TODO: 
+
+### AngularJS Services
+
+  * http://www.w3schools.com/angular/angular_services.asp
+  * a service is a function, or object
+  * $location - 
+  * $http is an AngularJS service for reading data from remote servers.
+
+### Arrays 
+
+  * points=[1,15,19,2,40]
+  * {{ points[2] }}
+  * names=['Jani','Hege','Kai']
+  * <li ng-repeat="x in names">
 
 
 ### Ref
