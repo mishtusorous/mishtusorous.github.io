@@ -45,16 +45,19 @@ You can initialize models.
 ```
 
 You could run maths 
+
 ```
 <p>My first expression: {{ 5 + 5 }}</p>
 ```
 
 You could name your app and put a controller to home the js code. 
+
 ```
 <div ng-app="myApp" ng-controller="myCtrl">
 ```
 
 And put some code in the app and controller. 
+
 ```
 <script>
 var app = angular.module('myApp', []);
