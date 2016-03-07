@@ -6,6 +6,8 @@ summary:    Getting started Angularjs. Just pure vanilla stuff.
 categories: howto angularjs
 ---
 
+AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects.
+
 ### Write a vanilla angularjs 
   * Create a HTML file
   * Add angularjs file to your HTML 
@@ -108,9 +110,156 @@ $scope.arrayOfNames = ['mishtu', 'sorous'] ;
 
 ```
 
+//TODO: Autocomplete of AngularJs. Eclipse is not quite good. 
+
 
 
 ### Ref
   * http://www.w3schools.com/angular/
   * http://www.w3schools.com/angular/angular_intro.asp
   * http://www.w3schools.com/angular/angular_expressions.asp
+  * http://www.tutorialspoint.com/angularjs/
+
+
+
+[Hosted js libraries with Google](https://developers.google.com/speed/libraries/#libraries)
+
+Add AngularJs to HTML
+
+```
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+```
+
+Create an app. 
+
+```
+<body ng-app = "myapp">
+</body>
+```
+
+Create a view 
+
+```
+<div ng-controller = "HelloController" >
+   <h2>Welcome {{helloTo.title}} to the world of Tutorialspoint!</h2>
+</div>
+```
+
+Create a controller and model 
+
+```
+<script>
+   angular.module("myapp", [])
+   
+   .controller("HelloController", function($scope) {
+      $scope.helloTo = {};
+      $scope.helloTo.title = "AngularJS";
+   });
+</script>
+```
+
+//TODO: Ng+Leaflet Application
+
+//TODO: Ng+D3 Application 
+http://www.ng-newsletter.com/posts/d3-on-angular.html
+Scalable Vector Graphics (SVG)
+
+Reference 
+[Nice. But there should be a easier way to marry D3 with Angular](http://briantford.com/blog/angular-d3)
+[Nice. But too complicated](http://www.sitepoint.com/creating-charting-directives-using-angularjs-d3-js/)
+
+
+[Nice way to show the list of blogs.Simple and effective. Like the fact that he could show up the blogs that were shown somewhere else as well.](http://briantford.com/blog/)
+
+
+<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>
+
+[d3](https://d3js.org)
+
+
+AngularJs is not all good 
+http://tutorials.jenkov.com/angularjs/critique.html
+
+[Things I Wish I Were Told About Angular.js](http://ruoyusun.com/2013/05/25/things-i-wish-i-were-told-about-angular-js.html)
+
+[There is something called Rickshaw. And no, integrating d3 is not going to be very easy](http://tagtree.tv/d3-with-rickshaw-and-angular)
+
+Contact me 
+https://www.codeschool.com with github account 
+
+
+
+### Get some songs. 
+https://www.youtube.com/watch?v=d59zN-ZwX2k
+https://www.youtube.com/watch?v=1VV2P71NstI
+
+
+### Javascript 
+
+http://javascript-roadtrip.codeschool.com/levels/1/challenges/1
+
+Numbers 
+Plus, Minus, Multiplication, Division and Modulo 
+PEMDAS 
+>, <, ==, !=, >=, <= 
+
+Strings 
++, ==, != 
+"abra".length
+"ca".charAt(1)
+
+
+Variables 
+++, --
+
+JS file 
+
+```
+<script src="application.js"></script>
+```
+
+JS while loop 
+```
+while(true){...}
+```
+
+JS for loop 
+```
+for(var counter = 10 ; counter >= 1 ; counter--){
+  console.log(counter) ; 
+}
+```
+
+```
+var numSheep = 4;
+var monthsToPrint = 12;
+for (var monthNumber = 1 ; monthNumber <= monthsToPrint ; monthNumber++){
+  numSheep = numSheep * 4;
+  console.log("There will be " + numSheep + " sheep after " + monthNumber + " month(s)!");
+}
+```
+
+
+```
+var currentGen = 1;
+var totalGen = 19;
+var totalMW = 0;
+while(currentGen<=4) {
+  totalMW += 62 ; 
+  console.log("Generator #"+currentGen+" is on, adding 62 MW, for a total of "+totalMW+" MW!"); 
+  currentGen++; 
+}
+for(;currentGen<=totalGen;currentGen++){
+  totalMW += 124 ; 
+  console.log("Generator #"+currentGen+" is on, adding 124 MW, for a total of "+totalMW+" MW!");   
+}
+```
+
+
+
+
+
+
+
+
