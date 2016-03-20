@@ -258,6 +258,54 @@ for(;currentGen<=totalGen;currentGen++){
 
 
 
+### Find home for the following 
+
+Software engg have it tough. Or do they? https://m.signalvnoise.com/writing-software-is-easy-bcb77aa6bea1#.wkozqpohb
+
+We all know these meetings, and we all hate them, but they still are there. Why? http://thehiggsweldon.com/thinking-inside-the-bubble/
+
+Mr. Arkle? Teaching english writing. ?? 
+
+To be happy, to have purpose, you must create. https://medium.com/life-learning/haters-gonna-hate-creators-gonna-create-5a6d9a701f21#.721dzz1tf
+
+Well done, yo millennial. https://medium.com/slackjaw/good-job-millennials-56494aad19f8#.8xy09idkz
+
+What is your street cred? https://medium.com/@kim617/yes-i-want-to-help-you-get-hired-beab89326192#.p80bov57o
+
+
+TechCrunch articles. 
+
+
+LinkedIn. Does it have a dev api that I can use? 
+
+  LinkedIn Javascript API
+  https://www.youtube.com/watch?v=bbu8JhqiOZA
+
+  Linked In API Java Tutorial Part 1
+  https://www.youtube.com/watch?v=eWgTg4ONEHU
+
+  http://postimg.org/image/c23ds2wvx/
+
+
+We want more than money :) 
+https://medium.com/life-learning/what-we-want-more-than-money-b69801829e89#.7nb9yvckj
+
+Yet another Spring Boot Application (Part 1)
+https://medium.com/java-user-group-malta/yet-another-spring-boot-application-part-1-a6a26d7c036d#.rfjtimoht
+
+
+
+
+
+ScribeJava
+
+<dependency>
+  <groupId>com.github.scribejava</groupId>
+  <artifactId>scribejava-apis</artifactId>
+  <version>2.2.2</version> // please use always the latest version
+</dependency>
+
+
 
 
 
