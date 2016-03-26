@@ -293,7 +293,8 @@ https://medium.com/life-learning/what-we-want-more-than-money-b69801829e89#.7nb9
 Yet another Spring Boot Application (Part 1)
 https://medium.com/java-user-group-malta/yet-another-spring-boot-application-part-1-a6a26d7c036d#.rfjtimoht
 
-
+Spring Boot: REST + TDD from scratch
+https://medium.com/@krebs.bruno/spring-boot-rest-tdd-from-scratch-15f13ed799e0#.mg44l0lor
 
 
 
@@ -304,6 +305,24 @@ ScribeJava
   <artifactId>scribejava-apis</artifactId>
   <version>2.2.2</version> // please use always the latest version
 </dependency>
+
+
+Setting up Spring Boot
+pom.xml file
+
+https://medium.com/@krebs.bruno/spring-boot-rest-tdd-from-scratch-15f13ed799e0#.mg44l0lor
+
+lin benjamin 
+niraj gilja 
+iasello, anthony p 
+tolani, rajesh 
+
+herman,
+nirav 
+sandeep and neelam 
+
+
+
 
 
 
